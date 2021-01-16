@@ -75,3 +75,18 @@ table{
 	position: relative;
 	text-align: left;
 }
+
+
+
+h1{
+	text-align: center;
+}
+
+#endless{
+	margin-top: 30px;
+	text-align: center;
+}
+
+#pups{
+	margin-left: 16px;
+}
